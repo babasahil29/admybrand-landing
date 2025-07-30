@@ -4,8 +4,6 @@ A stunning, modern SaaS landing page for ADmyBRAND AI Suite, built with React an
 
 🌐 **Live Demo**: (https://admybrand-landing.netlify.app/)
 
-**Note**: After deploying your project to Netlify, Vercel, or any other static hosting service, please update this placeholder with your actual live demo URL.
-## ✨ Features
 
 ### 🎨 Modern UI/UX Design
 - **2025 Design Trends**: Glassmorphism effects, soft gradients, and smooth animations
