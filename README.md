@@ -2,7 +2,7 @@
 
 A stunning, modern SaaS landing page for ADmyBRAND AI Suite, built with React and TailwindCSS. This project showcases cutting-edge web design trends including glassmorphism, smooth animations, and mobile-first responsive design.
 
-🌐 **Live Demo**: [YOUR_DEPLOYED_URL_HERE]
+🌐 **Live Demo**: (https://admybrand-landing.netlify.app/)
 
 **Note**: After deploying your project to Netlify, Vercel, or any other static hosting service, please update this placeholder with your actual live demo URL.
 ## ✨ Features
